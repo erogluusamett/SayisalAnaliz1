@@ -1,2 +1,3 @@
 # SayisalAnaliz
-0220224574Ödev1
+Sayısal Analiz dersinde yaptığim ödevler.
+Yazılım dili olarak Pyhton kullandım.
